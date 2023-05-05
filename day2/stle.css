@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(148, 22, 22);
+    
+}
+nav ul{
+    padding: 50px;
+    font-size: 20px;
+}
+nav ul a{
+    font-family: Verdana, Geneva, Tahoma;
+    padding: 18px;
+    text-decoration: none;
+    font-weight: bold;
+    
+    
+    color: white;
+    cursor: pointer;
+
+}
+nav ul a:hover{
+    
+    color: black ;
+    text-decoration: underline;
+    
+}
+nav img{
+    padding: 10px;
+}
+.a h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma;
+}
+.a ul span{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma;
+    padding-left: 20px;
+}
+.a ul li{
+    
+    padding-left: 20px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma;
+    
+}
+.b img{
+    margin-left: 420px;
+    padding:20px ;
+}
+
+.b h3{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma;
+    color: rgb(148, 22, 22);
+    
+}
+.c{
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma;
+}
+
+.c img {
+   float: left; 
+   margin: auto 50px;
+   
+   
+}
+.c h2,p{
+    float: right;
+    width: 60%;
+    padding-top: 50px;
+}
+.d{ 
+    font-family: Verdana, Geneva, Tahoma;
+    margin-top: 300px;
+    background-color: rgb(41, 191, 191);
+   display: block;
+    height: 160px;
+   padding-top: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+#m{
+    float: right;
+    font-family: Verdana, Geneva, Tahoma;
+
+}
+#m li a, .d li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    
+}
+#m a:hover{
+    color: rgb(214, 12, 12);
+}
+.d a:hover{
+    color: rgb(214, 12, 12);
+}
+.f{
+    font-family: Verdana, Geneva, Tahoma;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    margin: 20px;
+}
+.f i{
+    padding: 15px;
+    font-size: 20px;
+}
